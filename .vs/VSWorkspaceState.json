@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ColoringApp.Android",
+    "\\ColoringApp.Android\\bin",
+    "\\ColoringApp.Android\\Resources",
+    "\\ColoringApp.Android\\Resources\\layout",
+    "\\ColoringApp.Android\\Views",
+    "\\ColoringApp.Core",
+    "\\ColoringApp.Core\\ViewModels"
+  ],
+  "SelectedNode": "\\ColoringApp.Core\\ViewModels\\CharacterListViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
